@@ -1,8 +1,8 @@
 # vuex-demo
 
-> A Vue.js project
-###This is an example of the vuex official website to help us better understand vuex.</br>
-###There are comments in the code that understand each module.</br>
+> A Vue.js project</br>
+This is an example of the vuex official website to help us better understand vuex.</br>
+There are comments in the code that understand each module.</br>
 ![](https://vuex.vuejs.org/vuex.png)
 
 ## Build Setup
